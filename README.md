@@ -9,7 +9,6 @@ A small PyTorch-based GPT-like character model for learning and generation.
 - `model.py` — GPT model implementation
 - `train.py` — training loop
 - `generate.py` — text generation script
-- `model.pt` — saved model weights (ignored by default for future pushes)
 
 ## Setup
 
