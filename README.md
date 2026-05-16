@@ -1,4 +1,4 @@
-# mini_gpt
+# mini-gpt-from-scratch
 
 A small PyTorch-based GPT-like character model for learning and generation.
 
